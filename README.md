@@ -3,8 +3,8 @@
 
 A lightweight **Python-based network security tool** with CLI and Web Dashboard interfaces for scanning open ports, identifying services, and evaluating basic security exposure.
 
-![Python](https://img.shields.io/badge/Python-3.10+-f8c8dc?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Web%20App-fde68a?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-fbcfe8?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-fbcfe8?style=for-the-badge&logo=flask&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-fbcfe8?style=for-the-badge)
 
 ---
