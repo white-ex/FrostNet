@@ -11,7 +11,7 @@ A lightweight **Python-based network security tool** with CLI and Web Dashboard 
 
 ## ☁️ Overview 
 
-**NetScope** is a simple network security tool :
+**FrostNet** is a simple network security tool :
 
 It provides:
 - Port scanning (TCP)
