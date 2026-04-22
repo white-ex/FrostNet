@@ -1,4 +1,4 @@
-# FrostNet 🔍
+# FrostNet 
 ### Network Scanner & Security Analyzer
 
 A lightweight **Python-based network security tool** with CLI and Web Dashboard interfaces for scanning open ports, identifying services, and evaluating basic security exposure.
